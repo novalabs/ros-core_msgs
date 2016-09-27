@@ -1,0 +1,3 @@
+core_msgs/Vector3_32 angular_velocity
+core_msgs/Vector3_32 linear_acceleration
+core_msgs/Vector3_32 magnetic_field

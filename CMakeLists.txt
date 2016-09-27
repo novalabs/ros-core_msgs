@@ -6,7 +6,9 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs message_generation std_msg
 add_message_files(
   DIRECTORY msg
   FILES
+  ImuRaw.msg
   Proximity.msg
+  Vector3_32.msg
 )
 
 generate_messages(
